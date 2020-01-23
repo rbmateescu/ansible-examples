@@ -5,5 +5,5 @@
 mysqlservice: mysqld
 mysql_port: 3306
 dbuser: foouser
-dbname: foodb
+dbname: foodb2
 upassword: passw0rd
